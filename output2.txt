@@ -1,0 +1,8 @@
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\subbareddy1\personals\java> javac Rectangle.java
+PS C:\subbareddy1\personals\java> java Rectangle
+the area is600
+PS C:\subbareddy1\personals\java>
+
+
